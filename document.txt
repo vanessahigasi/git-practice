@@ -3,9 +3,8 @@ My project
 
 Intro
 ------
-
-This is the introduction.
 It will be very interesting.
+There is another file notes.txt where I write notes.
 
 First section
 -------------
